@@ -1,5 +1,5 @@
 ![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
-<h1 align="center" >Hi, I'm <a href="https://www.linkedin.com/in/pallavi-pandey-8237791a0/" target="_blank"> Sachin Singh </a><img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h1>
+<h1 align="center" >Hi, I'm <a href="https://www.linkedin.com/in/sachin26240/" target="_blank"> Sachin Singh </a><img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h1>
 <img width="40%" align="right"   src="https://github.com/SauravMukherjee44/SauravMukherjee44/blob/03193437b82d681c9caa24657c4ebec746dc628f/workbench.svg" >
 
 A bit about Myself, I am <b>Sachin Singh</b> pursuing my <b>Information Technology Degree</b> from Shah & Anchor Kutchhi Engineering College, Currently in my Forth-Year of B.Tech. As of now, I am focused on <b>Backend development, and Cloud Computing </b> but still, wish to explore many fields. ⚡
